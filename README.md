@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Lucas Pereira 👋
 
-<!--
-**luccassilpereira-alt/luccassilpereira-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, construindo uma base sólida em desenvolvimento de software.  
+Atualmente, estou focado em **Python** 🐍 e planejando expandir meu conhecimento para **Java** ☕.  
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia que transforma vidas e negócios, busco aprender constantemente e transformar ideias em soluções digitais.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Habilidades em Aprendizado
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌱 Objetivos de Aprendizado
+
+- 🐍 Dominar Python para projetos pessoais e acadêmicos  
+- ☕ Explorar Java e desenvolvimento orientado a objetos  
+- 💻 Criar projetos práticos que conectem teoria e prática  
+- 🛠 Aprender boas práticas de programação e versionamento de código  
+
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [Lucas Pereira](www.linkedin.com/in/lucas-pereira0908)  
+- E-mail: luccas.silpereira@gmail.com
+---
+
+> "Movido pelo aprendizado contínuo, curiosidade e pelo desejo de criar soluções digitais que façam a diferença." 🌱
+
