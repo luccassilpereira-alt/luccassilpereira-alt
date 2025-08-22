@@ -29,7 +29,7 @@ Apaixonado por tecnologia que transforma vidas e negócios, busco aprender const
 
 ## 📫 Contato
 
-- LinkedIn: [Lucas Pereira](www.linkedin.com/in/lucas-pereira0908)  
+- LinkedIn: [Lucas Pereira] (www.linkedin.com/in/lucas-pereira0908)  
 - E-mail: luccas.silpereira@gmail.com
 ---
 
