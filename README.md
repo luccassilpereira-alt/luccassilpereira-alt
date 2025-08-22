@@ -15,6 +15,9 @@ Apaixonado por tecnologia que transforma vidas e negócios, busco aprender const
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![Focus](https://img.shields.io/badge/Focus-Aprendizado%20Contínuo-yellow?style=for-the-badge)
+![Motivation](https://img.shields.io/badge/Motivado%20por-Tecnologia-blueviolet?style=for-the-badge)
+
 ---
 
 ## 🌱 Objetivos de Aprendizado
@@ -23,7 +26,6 @@ Apaixonado por tecnologia que transforma vidas e negócios, busco aprender const
 - ☕ Explorar Java e desenvolvimento orientado a objetos  
 - 💻 Criar projetos práticos que conectem teoria e prática  
 - 🛠 Aprender boas práticas de programação e versionamento de código  
-
 
 ---
 
